@@ -1,0 +1,6 @@
+bin/
+local/
+lib/
+build/
+include/
+tutorial/index.html
